@@ -1,5 +1,10 @@
 # 1. RabbitMQ
 
+> RabbitMQ tutorials : https://www.rabbitmq.com/getstarted.html
+> 
+> RabbitMQ in depth 내용 정리
+
+
 ### RabbitMQ summary
 
 1. [What is RabbitMQ?](https://github.com/cooper-dev-lab/spring-rabbitmq-basic/wiki/1.-What-is-RabbitMQ)
